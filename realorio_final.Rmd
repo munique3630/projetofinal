@@ -1,15 +1,15 @@
 ---
 title: "Relatorio_final"
 author: "Munique"
-date: "18/02/2020"
+date: "25/02/2020"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r setup, include=TRUE}
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Influência das Algas Calcárias Incrustantes no assentamento de coral.
+*Influência das Algas Calcárias Incrustantes no assentamento de coral.*
 
 As algas calcárias incrustantes (ACI) fazem parte da divisão Rhodophyta, ordem Corallinales (Harvey et al., 2003). São organismos pertencentes ao grupo de algas denominadas calcárias, que exibem a capacidade de mineralizar o carbonato de cálcio (CaCO3) em suas paredes celulares (Moraes et al., 2013). Distribuídas na maioria dos habitats marinhos, estas algas podem ser encontradas desde as regiões tropicais até as polares, e desde zonas entre-marés até altas profundidades (Litter et al., 1985, Bahia et al., 2014).
 
@@ -21,35 +21,16 @@ Estas expressões ecológicas são consideradas de grande relevância para a com
  
 Nesse sentido, a partir de observações de campo sobre a interação de espécies de ACI com espécies invasoras de corais-sol (T. coccinea e T. tagusensis), e também por experimentos em laboratório, este projeto de pesquisa se propõe a analisar as preferências por assentamento de larvas destes corais tendo ACI como substratos
 
-OBJETIVO
+*RESULTADOS*
 
-GERAL
-Verificar a influência das ACI no assentamento de larvas de coral T. coccinea e T. tagusensis.
+_Os dados abaixo são referentes ao experimento realizado para a pesquisa de mestrado (Experimento 1)._
 
-ESPECÍFICOS
-Identificar o substrato preferencial para assentamento dos corais-sol T. coccinea e T. tagusensis no conjunto de Ilhas do Rio;
-Analisar os efeitos dos sinais químicos emitidos por ACI na indução de assentamento de larvas dos corais-sol T. coccinea e T. tagusensis;
-Analisar a influência do biofilme presente em ACI na indução de assentamento de larvas dos corais-sol T. coccinea e T. tagusensis;
-Analisar a influência dos componentes físicos (cor e topografia) de ACI na indução de assentamento de larvas dos corais-sol T. coccinea e T. tagusensis
+As plânunas de coral assentaram na alga viva (treatment) em maior proporção do que na alga morta (control)
 
 
-HIPÓTESE
-As ACI atuam no assentamento de metamorfose se organismos bentônicos.
 
-RESULTADOS ESPERADOS
-Espera-se obter dados inéditos sobre a influência de Algas Calcárias Incrustantes no assentamento, metamorfose e desenvolvimento de duas espéciesde corais exóticos/ invasoresno Oceano Atlântico (Tubastraea spp.), com base em populações insulares (corais e algas) da região metropolitana do Rio de Janeiro. Com isso, espera-se compreender melhor fatores ecológicos que atuam no processo de colonização de duas das principais espécies exóticas/invasores marinhas atualmente no Brasil, assim como embasar estratégias para a gestão e o manejo de Unidades de Conservação (e.g., MoNa das Ilhas Cagarras) frente ao atual cenário de bioinvasão por Tubastraea spp.
+![](../Trabalho_final/figuras/figura01.png)
 
 
-```{r cars}
-summary(cars)
-```
+![](../Trabalho_final/figuras/figura03.png)
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
