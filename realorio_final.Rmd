@@ -1,7 +1,7 @@
 ---
 title: "Relatorio_final"
-author: "Munique"
-date: "25/02/2020"
+author: "Munique Santos"
+date: "12/03/2020"
 output: html_document
 ---
 
@@ -9,7 +9,7 @@ output: html_document
 
 ```
 
-*Influência das Algas Calcárias Incrustantes no assentamento de coral.*
+## *Influência das Algas Calcárias Incrustantes no assentamento de coral.*
 
 As algas calcárias incrustantes (ACI) fazem parte da divisão Rhodophyta, ordem Corallinales (Harvey et al., 2003). São organismos pertencentes ao grupo de algas denominadas calcárias, que exibem a capacidade de mineralizar o carbonato de cálcio (CaCO3) em suas paredes celulares (Moraes et al., 2013). Distribuídas na maioria dos habitats marinhos, estas algas podem ser encontradas desde as regiões tropicais até as polares, e desde zonas entre-marés até altas profundidades (Litter et al., 1985, Bahia et al., 2014).
 
@@ -21,9 +21,9 @@ Estas expressões ecológicas são consideradas de grande relevância para a com
  
 Nesse sentido, a partir de observações de campo sobre a interação de espécies de ACI com espécies invasoras de corais-sol (T. coccinea e T. tagusensis), e também por experimentos em laboratório, este projeto de pesquisa se propõe a analisar as preferências por assentamento de larvas destes corais tendo ACI como substratos
 
-*RESULTADOS*
+## *RESULTADOS*
 
-_Os dados abaixo são referentes ao experimento realizado para a pesquisa de mestrado (Experimento 1)._
+### _Os dados abaixo são referentes ao experimento realizado para a pesquisa de mestrado (Experimento 1)._
 
 As plânunas de coral assentaram na alga viva (treatment) em maior proporção do que na alga morta (control)
 
@@ -36,4 +36,4 @@ As plânunas de coral assentaram na alga viva (treatment) em maior proporção d
 
 
 ![](../Trabalho_final/figuras/DSC_1912.jpg)
-
+*Tubastraea tagusensis*
