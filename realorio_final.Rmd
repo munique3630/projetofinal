@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r setup, include=TRUE}
-knitr::opts_chunk$set(echo = FALSE)
+
 ```
 
 *Influência das Algas Calcárias Incrustantes no assentamento de coral.*
@@ -33,4 +33,7 @@ As plânunas de coral assentaram na alga viva (treatment) em maior proporção d
 
 
 ![](../Trabalho_final/figuras/figura03.png)
+
+
+![](../Trabalho_final/figuras/DSC_1912.jpg)
 
