@@ -51,7 +51,7 @@ boxplot(Y ~ X,
         names.arg = c("treatment", "control"),
         col = "gray",
         las = 1,
-        scale(dados01, center = FALSE, scale = FALSE),
+        scale(algas, center = FALSE, scale = FALSE),
         horiz = FALSE)
 
 #cria um arquivo png
@@ -65,7 +65,7 @@ boxplot(Y ~ X,
         names.arg = c("treatment", "control"),
         col = "gray",
         las = 1,
-        scale(dados01, center = FALSE, scale = FALSE),
+        scale(algas, center = FALSE, scale = FALSE),
         horiz = FALSE)
 #para salvar o gráfico como imagem png
 dev.off()
