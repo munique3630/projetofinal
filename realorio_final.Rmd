@@ -3,6 +3,8 @@ title: "Relatorio_final"
 author: "Munique Santos"
 date: "12/03/2020"
 output: html_document
+csl: ../citation/nature.csl
+bibliography: ../Trabalho_final/citation/citation.bib
 ---
 
 ```{r setup, include=TRUE}
@@ -11,17 +13,17 @@ output: html_document
 
 ## *Influência das Algas Calcárias Incrustantes no assentamento de coral.*
 
-As algas calcárias incrustantes (ACI) fazem parte da divisão Rhodophyta, ordem Corallinales (Harvey et al., 2003). São organismos pertencentes ao grupo de algas denominadas calcárias, que exibem a capacidade de mineralizar o carbonato de cálcio (CaCO3) em suas paredes celulares (Moraes et al., 2013). Distribuídas na maioria dos habitats marinhos, estas algas podem ser encontradas desde as regiões tropicais até as polares, e desde zonas entre-marés até altas profundidades (Litter et al., 1985, Bahia et al., 2014).
+As algas calcárias incrustantes (ACI) fazem parte da divisão Rhodophyta, ordem Corallinales @harvey_choreonema_2003. São organismos pertencentes ao grupo de algas denominadas calcárias, que exibem a capacidade de mineralizar o carbonato de cálcio (CaCO3) em suas paredes celulares. Distribuídas na maioria dos habitats marinhos, estas algas podem ser encontradas desde as regiões tropicais até as polares, e desde zonas entre-marés até altas profundidades @bahia_porolithon_2014.
 
-As ACI exercem importantes funções nos oceanos, destacando-se o papel como bioconstrutoras, constituindo um elemento indispensável para a formação de recifes e de bancos de rodolitos. Segundo Doropolus & Diaz-Pulido (2013), do ponto de vista ecológico, as ACI podem atuar como organismos estabilizadores de recifes por meio da cimentação propiciada pela incrustação do carbonato de cálcio nos organismos formadores de recifes. Devido à sua capacidade de modificar o substrato, transformando fundos inconsolidados em consolidados e contribuindo na formação de variados microhabitats (Littler & Littler, 2013).
+As ACI exercem importantes funções nos oceanos, destacando-se o papel como bioconstrutoras, constituindo um elemento indispensável para a formação de recifes e de bancos de rodolitos. Do ponto de vista ecológico, as ACI podem atuar como organismos estabilizadores de recifes por meio da cimentação propiciada pela incrustação do carbonato de cálcio nos organismos formadores de recifes. Devido à sua capacidade de modificar o substrato, transformando fundos inconsolidados em consolidados e contribuindo na formação de variados microhabitats @littler_nature_nodate.
 
-As ACI são os recursos mais prolíficos na produção de sinais químicos para assentamento e/metamorfose de invertebrados marinhos, tais como ouriços Strongylocentrotus droebachiensis (Pearce & Scheibling, 1990), o poliqueta Spirorbis rupestris (Gee, 1965), a lesma do mar Aplysia californica (Nadeau et al., 1989) e os moluscos Strombus gigas (Boettcher & Targett, 1996) e Tonicella lineate (Barnes & Gonor, 1973). Diversas espécies de ACI também produzem substâncias capazes de induzir o assentamento e influenciar na sobrevivência pós-assentamento de larvas ou plánulas de corais (e.g. Doropoulos & Diaz-Pulido, 2013, Erwin et al., 2008).
+As ACI são os recursos mais prolíficos na produção de sinais químicos para assentamento e/metamorfose de invertebrados marinhos. Diversas espécies de ACI também produzem substâncias capazes de induzir o assentamento e influenciar na sobrevivência pós-assentamento de larvas ou plánulas de corais (e.g. @diaz-pulido_impact_2010, @erwin_settlement_nodate).
 
-Estas expressões ecológicas são consideradas de grande relevância para a compreensão da dinâmica de construção e desenvolvimentos dos recifes de corais do mundo (Pereira et al. 2017). De fato, as algas marinhas tradicionalmente têm sido estudadas como fontes de sinais positivos para assentamento, ou mesmo metamorfose de invertebrados marinhos (Pearce & Scheibling, 1990), e nas últimas décadas emergiu como o maior recurso de sinais químicos para estágios de vida planctônicos de inúmeros invertebrados marinhos (Hadfeld & Paul, 2001).
+Estas expressões ecológicas são consideradas de grande relevância para a compreensão da dinâmica de construção e desenvolvimentos dos recifes de corais do mundo @olafsson_role_2016. De fato, as algas marinhas tradicionalmente têm sido estudadas como fontes de sinais positivos para assentamento, ou mesmo metamorfose de invertebrados marinhos, e nas últimas décadas emergiu como o maior recurso de sinais químicos para estágios de vida planctônicos de inúmeros invertebrados marinhos @pearce_induction_1990.
  
 Nesse sentido, a partir de observações de campo sobre a interação de espécies de ACI com espécies invasoras de corais-sol (T. coccinea e T. tagusensis), e também por experimentos em laboratório, este projeto de pesquisa se propõe a analisar as preferências por assentamento de larvas destes corais tendo ACI como substratos
 
-## *RESULTADOS*
+## **RESULTADOS**
 
 ### _Os dados abaixo são referentes ao experimento realizado para a pesquisa de mestrado (Experimento 1)._
 
